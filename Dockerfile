@@ -1,6 +1,3 @@
-
-
-
 # Build stage
 FROM maven:latest AS build
 WORKDIR /
